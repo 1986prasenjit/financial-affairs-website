@@ -16,7 +16,6 @@ li {
 body {
   color: black;
   font-family: "Poppins", "Times New Roman", Times, serif;
-  font-display: swap;
 }
 .commonContainer {
   margin: 0px auto;
@@ -205,7 +204,7 @@ body {
   font-size: 25px;
   margin-bottom: 10px;
 }
-.aboutTextContainer p {
+.aboutTextContainer span {
   font-size: 15px;
   margin-bottom: 10px;
   color: rgba(0, 0, 0, 0.6);
